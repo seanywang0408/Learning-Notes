@@ -4,7 +4,7 @@ This list focus on what I'm supposed to learn recently.
 ### Theory
 * [ ] **CS 294-131: Trustworthy Deep Learning** ([website](https://berkeley-deep-learning.github.io/cs294-131-s19/))
   * [x] Nicolas Papernot	security/privacy
-* [ ] `Probabilities and Machine Learning` *by Yida Xu* ([Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q/feed)) ([Bilibili](https://www.bilibili.com/video/av12802062))
+* [ ] **Probabilities and Machine Learning** *by Yida Xu* ([Youtube](https://www.youtube.com/channel/UConITmGn5PFr0hxTI2tWD4Q/feed)) ([Bilibili](https://www.bilibili.com/video/av12802062))
   * [ ] Expectation Maximization
   * [ ] Hidden Markov Model
   * [ ] Markov Chain Monte Carlo
