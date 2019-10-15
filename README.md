@@ -9,7 +9,14 @@ This list focus on what I'm supposed to learn recently.
 * [30 段Python技巧](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770670&idx=5&sn=332193c3453bdb70af400f63c6b78db0&chksm=871a4890b06dc186aa7e580446acbfc704b823f38df60e7039b4a6ba12fdb60fbf0e8819904a&scene=0&xtrack=1&key=8e29a0afef503671f9055dd94658260c67d1eed0d9932af5f8f9de07d5679e1f23b1e047419f9da9e8575532f589c6bba5e87e8fb027dac1873246059f1df0c060d5740f444d5b5a832cad67459b2c36&ascene=14&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=xxXei65zSr1ITzqx4RGsic0rvCTHQvmDNbnvW%2BHda1ONlfXNGy9NBnZKx%2BMANztp)
 * [Tensorflow 教程](https://github.com/machinelearningmindset/TensorFlow-Course#basic-machine-learning)
 * [Pytorch 文档](https://pytorch.org/docs/stable/index.html)
-* [Cousera Algorithm]()
+* Cousera Stanford Algorithm
+  * [Algorithm](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
+  * [Datastructure](https://www.coursera.org/learn/data-structures/home/welcome)
+  * [Algorithm on Graphs](https://www.coursera.org/learn/algorithms-on-graphs/home/welcome)
+  * [Algorithms on Strings](https://www.coursera.org/learn/algorithms-on-strings/home/welcome)
+  * [Advanced Algorithms and Complexity](https://www.coursera.org/learn/advanced-algorithms-and-complexity/home/welcome)
+  * [Genome Assembly Programming Challenge](https://www.coursera.org/learn/assembling-genomes/home/welcome)
+
 
 ## Finished
 * [VS code 快捷键](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247491339&idx=3&sn=903911ad666dfa948fa036ec1265f130&chksm=976fba96a0183380f38dcebcf1871530edcb2ceb15528a72f2419168275675a33cfb5f8dff79&scene=0&xtrack=1&key=cc05756d3b1d1e7a8312fa5ed42a802d925073ae8b9e68e1f7ba4cfa33b07087376f254894feb2355601cb09d7173d11796d42ee71bac145afae21705eba26f58b26d99308db533a6f4632b8829e78ef&ascene=14&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=xxXei65zSr1ITzqx4RGsic0rvCTHQvmDNbnvW%2BHda1ONlfXNGy9NBnZKx%2BMANztp0)
