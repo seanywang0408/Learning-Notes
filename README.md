@@ -9,6 +9,7 @@ This list focus on what I'm supposed to learn recently.
 * [30 段Python技巧](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650770670&idx=5&sn=332193c3453bdb70af400f63c6b78db0&chksm=871a4890b06dc186aa7e580446acbfc704b823f38df60e7039b4a6ba12fdb60fbf0e8819904a&scene=0&xtrack=1&key=8e29a0afef503671f9055dd94658260c67d1eed0d9932af5f8f9de07d5679e1f23b1e047419f9da9e8575532f589c6bba5e87e8fb027dac1873246059f1df0c060d5740f444d5b5a832cad67459b2c36&ascene=14&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=xxXei65zSr1ITzqx4RGsic0rvCTHQvmDNbnvW%2BHda1ONlfXNGy9NBnZKx%2BMANztp)
 * [Tensorflow 教程](https://github.com/machinelearningmindset/TensorFlow-Course#basic-machine-learning)
 * [Pytorch 文档](https://pytorch.org/docs/stable/index.html)
+* [Python 技巧](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457916532&idx=3&sn=624e83a7be91829e74fe9c3991deb357&chksm=8cb6b19ebbc1388854f14d785ce70c58dd4e04f6a2b824ed0596800982d16185e4536eb45558&scene=0&xtrack=1&key=7bd22d5ef7aac1e6daaeeaaaba0094ab8c64b0a31145481483b047e36f8d4296da2c63c290ea7a987878758f55ed8cc57c1e06efa696c690eea5150f22460b0282312960aa39ea265dd009dd758d783a&ascene=14&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=X2PHY07KrnrJS1qM4%2BwL3ES3a6Q4o6E0h4rSG%2FlFS8D8dod%2FS%2FSwZo5PI7UlJfpI)
 * Cousera Stanford Algorithm
   * [Algorithm](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
   * [Datastructure](https://www.coursera.org/learn/data-structures/home/welcome)
