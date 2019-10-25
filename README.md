@@ -10,6 +10,7 @@ This list focus on what I'm supposed to learn recently.
 * [Tensorflow 教程](https://github.com/machinelearningmindset/TensorFlow-Course#basic-machine-learning)
 * [Pytorch 文档](https://pytorch.org/docs/stable/index.html)
 * [Python 技巧](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457916532&idx=3&sn=624e83a7be91829e74fe9c3991deb357&chksm=8cb6b19ebbc1388854f14d785ce70c58dd4e04f6a2b824ed0596800982d16185e4536eb45558&scene=0&xtrack=1&key=7bd22d5ef7aac1e6daaeeaaaba0094ab8c64b0a31145481483b047e36f8d4296da2c63c290ea7a987878758f55ed8cc57c1e06efa696c690eea5150f22460b0282312960aa39ea265dd009dd758d783a&ascene=14&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=X2PHY07KrnrJS1qM4%2BwL3ES3a6Q4o6E0h4rSG%2FlFS8D8dod%2FS%2FSwZo5PI7UlJfpI)
+* [Stanford Tensorflow 1.4](https://web.stanford.edu/class/cs20si/)
 * Cousera Stanford Algorithm
   * [Algorithm](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
   * [Datastructure](https://www.coursera.org/learn/data-structures/home/welcome)
