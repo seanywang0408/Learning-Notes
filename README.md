@@ -10,8 +10,6 @@ This list focus on what I'm supposed to learn recently.
 * [Tensorflow 教程](https://github.com/machinelearningmindset/TensorFlow-Course#basic-machine-learning)
 * [Pytorch 文档](https://pytorch.org/docs/stable/index.html)
 * [Python 技巧](https://mp.weixin.qq.com/s?__biz=MzAxOTcxNTIwNQ==&mid=2457916532&idx=3&sn=624e83a7be91829e74fe9c3991deb357&chksm=8cb6b19ebbc1388854f14d785ce70c58dd4e04f6a2b824ed0596800982d16185e4536eb45558&scene=0&xtrack=1&key=7bd22d5ef7aac1e6daaeeaaaba0094ab8c64b0a31145481483b047e36f8d4296da2c63c290ea7a987878758f55ed8cc57c1e06efa696c690eea5150f22460b0282312960aa39ea265dd009dd758d783a&ascene=14&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=X2PHY07KrnrJS1qM4%2BwL3ES3a6Q4o6E0h4rSG%2FlFS8D8dod%2FS%2FSwZo5PI7UlJfpI)
-* [python is cool](https://github.com/chiphuyen/python-is-cool)
-* [python 技巧](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650772454&idx=2&sn=c236899f27ec6fc97ae771c920578cff&chksm=871a5798b06dde8e07ec89d0db9d847f66554ce456fac1204c418ceee606d33c0859c5d83b8f&mpshare=1&scene=1&srcid=&sharer_sharetime=1571962838814&sharer_shareid=aec70d665b91a43fe5bd18b110ccb19c&key=9ca3a05ed5363188d7e9688730d2ef6b707fc2dba9234d39f6a76e3728651d25f134cea6bcaf0bee7db9a09bc3d0848e2815a6d17ce2aa7a327c936e04d7be1fcf8f49637a0ea3e2c44dfacd2459d1b4&ascene=1&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=OzCFH1DPaG0AMbpxGkifDzgs4EmO1lnlZFcGXbsMArxiuQKny39xb1YOpKOIyzli)
 * Cousera Stanford Algorithm
   * [Algorithm](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
   * [Datastructure](https://www.coursera.org/learn/data-structures/home/welcome)
@@ -23,6 +21,8 @@ This list focus on what I'm supposed to learn recently.
 
 ## Finished
 * [VS code 快捷键](https://mp.weixin.qq.com/s?__biz=MzIwOTc2MTUyMg==&mid=2247491339&idx=3&sn=903911ad666dfa948fa036ec1265f130&chksm=976fba96a0183380f38dcebcf1871530edcb2ceb15528a72f2419168275675a33cfb5f8dff79&scene=0&xtrack=1&key=cc05756d3b1d1e7a8312fa5ed42a802d925073ae8b9e68e1f7ba4cfa33b07087376f254894feb2355601cb09d7173d11796d42ee71bac145afae21705eba26f58b26d99308db533a6f4632b8829e78ef&ascene=14&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=xxXei65zSr1ITzqx4RGsic0rvCTHQvmDNbnvW%2BHda1ONlfXNGy9NBnZKx%2BMANztp0)
+* [python is cool](https://github.com/chiphuyen/python-is-cool)
+* [python 技巧](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650772454&idx=2&sn=c236899f27ec6fc97ae771c920578cff&chksm=871a5798b06dde8e07ec89d0db9d847f66554ce456fac1204c418ceee606d33c0859c5d83b8f&mpshare=1&scene=1&srcid=&sharer_sharetime=1571962838814&sharer_shareid=aec70d665b91a43fe5bd18b110ccb19c&key=9ca3a05ed5363188d7e9688730d2ef6b707fc2dba9234d39f6a76e3728651d25f134cea6bcaf0bee7db9a09bc3d0848e2815a6d17ce2aa7a327c936e04d7be1fcf8f49637a0ea3e2c44dfacd2459d1b4&ascene=1&uin=MTU3MTAxMzIzOQ%3D%3D&devicetype=Windows+10&version=62070141&lang=zh_CN&pass_ticket=OzCFH1DPaG0AMbpxGkifDzgs4EmO1lnlZFcGXbsMArxiuQKny39xb1YOpKOIyzli) [原文](https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Fpython-tips-and-trick-you-havent-already-seen-37825547544f)
 
 ## In progress
 ### Theory
