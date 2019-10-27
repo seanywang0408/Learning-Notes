@@ -8,7 +8,7 @@ This list focus on what I'm supposed to learn recently.
 * [Pytorch 文档](https://pytorch.org/docs/stable/index.html)
 * [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python)
 * [Stanford Tensorflow 1.4](https://web.stanford.edu/class/cs20si/)
-* [Python 交互式图形](https://mp.weixin.qq.com/s/gcK0JCOVbZY1ck2POmU9xw)
+* [Python 交互式图形](https://bokeh.pydata.org/en/latest/)
 * Cousera Stanford Algorithm
   * [Algorithm](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
   * [Datastructure](https://www.coursera.org/learn/data-structures/home/welcome)
